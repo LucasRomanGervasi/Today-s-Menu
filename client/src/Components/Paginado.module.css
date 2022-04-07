@@ -1,0 +1,26 @@
+.paginado{
+    display: inline-block;
+    padding: 0;
+    margin: 5px;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.number{
+    justify-content: center;
+    color: #f7f6f6;
+}
+
+.button{
+    border-radius: 5px;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;   
+    text-align: center;
+    background-color: rgb(237, 240, 235);
+    font-size: 15px;
+}
+.button:hover{
+    background-color: rgb(26, 24, 24);
+    color: white
+}

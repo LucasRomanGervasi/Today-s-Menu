@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    margin-top: 3rem;
+    width: 50%;
+    justify-content: center;
+    margin-right: 20px;
+    align-items: center;
+    margin-left: 300px;
+    border-radius: 5px;
+    background:  rgb(243, 245, 242);
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}

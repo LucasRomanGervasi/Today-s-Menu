@@ -1,0 +1,58 @@
+body{
+    background: url("../img/¿d.png")  ;
+    height: 90vh;
+    background-size: 100%;
+    
+}
+.body{
+    margin-top: 60px;
+}
+.home{
+    border: none;
+    cursor:pointer;
+    background-color: rgb(252, 252, 252);
+    display: inline-block;
+    border-radius: 5px;
+    color: rgb(63, 11, 46);
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifS;
+    font-size: 15px;
+    width: 4,5%;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+h2{
+    color:rgb(0, 0, 0) ;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+}
+.home:hover{
+    transition-duration:10ms;
+    transform: scale(120%);
+    color:lavenderblush;
+    background-color: rgb(0, 0, 0)
+}
+.ho{
+    text-align: left;
+  
+}
+.foto{
+    width: 80px;
+    height: 80px;
+
+
+}
+.welcome{
+    color: rgb(36, 36, 36);
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+}
