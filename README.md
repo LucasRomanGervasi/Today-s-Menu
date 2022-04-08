@@ -1,5 +1,5 @@
 # Today-s-Menu
-Es una Single Page Application (SPA) de recetas de cocina. Te permite ver todas las recetas traídas de la API #Spoonacular, ordenarlas, filtrarlas y buscarlas por nombre y por el paginado. Además de poder crear tus propias recetas. Las tecnologías que utilicé fueron, del lado del Front-End; React, Redux y CSS (PURO!). Del Back-End; Nodejs y Express y en la base de datos; PostgreSQL y Sequelize
+Es una Single Page Application (SPA) de recetas de cocina. Te permite ver todas las recetas traídas de la API #Spoonacular, ordenarlas, filtrarlas y buscarlas por nombre o por el paginado. Además de poder crear tus propias recetas. Las tecnologías que utilicé fueron, del lado del Front-End; React, Redux y CSS (PURO!). Del Back-End; Nodejs y Express y en la base de datos; PostgreSQL y Sequelize
 
 
 ![Captura de pantalla (7)](https://user-images.githubusercontent.com/81176137/162439811-f7045598-e3c8-4b70-be78-4a6e85ea86f3.png)
